@@ -1,0 +1,35 @@
+{
+    "name": "Super Token",
+    "symbol": "SUP",
+    "uri": "https://raw.githubusercontent.com/yourusername/assets/main/galactic-token-image.png",
+    "description": "A token representing the vast and infinite galactic universe. Each Galactic Token is a piece of the stars, a unique collectible in the digital cosmos.",
+    "image": "https://purple-faithful-crawdad-734.mypinata.cloud/ipfs/bafybeibnj764zp26qhcw3t25265piroc5ub65csj6vgne5uyszkcvxeyhi",
+    "attributes": [
+      {
+        "trait_type": "Color",
+        "value": "Cosmic Blue"
+      },
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Power",
+        "value": "High"
+      },
+      {
+        "trait_type": "Year",
+        "value": "2025"
+      }
+    ],
+    "creator": "Yudha",
+    "external_url": "https://yourwebsite.com",
+    "seller_fee_basis_points": 500,
+    "creators": [
+      {
+        "address": "creator_wallet_address",
+        "share": 100
+      }
+    ]
+  }
+  
